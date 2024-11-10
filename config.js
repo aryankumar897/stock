@@ -1,0 +1,28 @@
+const DB_URI = "mongodb://127.0.0.1:27017/stock"
+
+const API = "http://localhost:3000/api"
+
+
+CLOUDINARY_CLOUD_NAME = "dxhzy8hjp",
+    CLOUDINARY_API_KEY = "732193517963228",
+    CLOUDINARY_API_SECRET = "laHrHWwDnUr_wYP7jdsz8Z7XYyE",
+
+
+    GOOGLE_API_KEY = "AIzaSyBtcZ4RclGUaqiNJHXjHz58KqOOqUsDcHQ"
+
+    NEXTAUTH_SECRET = "YGHIUGH78YT845U7YTH45IU796YH4658"
+
+CLIENT_URL = "http://localhost:3000"
+
+module.exports = {
+
+    DB_URI,
+    API,
+    NEXTAUTH_SECRET,
+    CLOUDINARY_CLOUD_NAME,
+    CLOUDINARY_API_KEY,
+    CLOUDINARY_API_SECRET,
+    GOOGLE_API_KEY ,
+    CLIENT_URL ,
+
+};
