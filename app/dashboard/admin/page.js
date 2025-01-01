@@ -2,6 +2,7 @@
 
 import Pages from "@/components/dashboard/user/dashboard/Pages"
 import Sale from "./Sale"
+import Chart from "./Chart"
 export default function Pos() {
 
 
@@ -13,8 +14,9 @@ export default function Pos() {
 
  <>   
  
-      <Pages />
-      <Sale />
+      <Pages/>
+    <Chart/> 
+    <Sale/>
  
  
   </>

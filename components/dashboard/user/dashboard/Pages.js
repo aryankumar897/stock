@@ -25,7 +25,7 @@ const HomePage = () => {
 
       > Inventory Management Dashboard</Typography>
 
-      <Ai />
+      <Ai/>
 
       <Analityic />
 
