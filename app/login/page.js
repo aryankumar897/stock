@@ -64,7 +64,7 @@ const LoginComponent = () => {
     return (
         <Box
             sx={{
-                backgroundImage: 'url(/images/pos3.png)',
+                backgroundImage: 'url(/images/pos.jpg)',
                 backgroundSize: 'cover',
                 height: '100vh',
                 display: 'flex',

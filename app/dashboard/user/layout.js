@@ -48,7 +48,7 @@ export default function AdminLayout({ children }) {
 
         } catch (err) {
             console.log(err);
-            alert("Something went wrong || Buy premium plan to access this content");
+          //  alert("Something went wrong || Buy premium plan to access this content");
             setIsLoading(false)
 
         }

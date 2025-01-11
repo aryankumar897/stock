@@ -228,7 +228,7 @@ const RegisterPage = () => {
                         >
                             Register
                         </Button>
-                        <Link href="/login" variant="body2" sx={{ mt: 2 }}>
+                        <Link href="/login" variant="body2" sx={{ mt: 2,color:"white" }}>
                             Already have an account? Login
                         </Link>
                     </Box>
@@ -243,7 +243,7 @@ const RegisterPage = () => {
                     >
                         <Box
                             component="img"
-                            src="/images/pos.jpg"
+                            src="/images/pic3.png"
                             alt="Register image"
                             sx={{
                                 width: '100%',
